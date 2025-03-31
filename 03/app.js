@@ -13,4 +13,4 @@ const sumNum = function (num) {
   return resultStr;
 };
 
-console.log(sumNum(8));
+console.log(sumNum(4));
